@@ -7,9 +7,22 @@ Map Documentation
 ``` python
   print("Hello World!")
 ```
-### R script
+### R Script
 ``` R
   print("Hello World!")
+```
+### Rust Script
+``` rust
+  fn main() {
+    // Statements here are executed when the compiled binary is called.
+
+    // Print text to the console.
+    println!("Hello World!");
+  }
+```
+### Bash Script
+``` bash
+  echo 'Hello World!'
 ```
 
 # New section
