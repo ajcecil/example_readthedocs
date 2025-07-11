@@ -22,7 +22,7 @@ exclude_patterns = []
 source_suffix = [".rst", ".md"]
 
 # Use 'index.md' as the root document
-master_doc = "index"
+master_doc = "https://github.com/ajcecil/example_readthedocs/blob/main/README"
 
 # HTML output options
 html_theme = "sphinx_rtd_theme"
